@@ -10,3 +10,12 @@ A collection of thoughts and resources provided by the apprentice team.
 #### [Yosevu]()
 
 #### [Travis](https://github.com/DevMaterial/.dotfiles)
+
+_Contents_
+* Articles
+* Exercises
+* Journals
+* Notes
+* Resources
+* dotfiles
+=======
