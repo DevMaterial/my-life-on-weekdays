@@ -9,7 +9,7 @@ A collection of thoughts and resources provided by the apprentice team.
 
 #### [Yosevu]()
 
-#### [Travis]()
+#### [Travis](https://github.com/DevMaterial/.dotfiles)
 
 _Contents_
 * Articles
@@ -18,3 +18,4 @@ _Contents_
 * Notes
 * Resources
 * dotfiles
+=======
