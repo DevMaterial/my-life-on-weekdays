@@ -1,0 +1,62 @@
+# ------------------------------------------------------------------
+# | Functions - 11.13.18                                           |
+# ------------------------------------------------------------------
+
+# make a directory and go into it
+  function mkd () {
+    mkdir -p "$@" && cd "$@"
+  }
+
+# returns how many lines are in a file
+  function file_lines () {
+    function find_number () {
+      cat $@ | wc -l
+    }
+    echo Your file $@ has $( find_number $@ ) lines.
+  }
+
+# go to the directory and list out the contents
+  function cl () {
+    cd $@ && ls -la
+  }
+
+# `o` with no arguments opens the current directory, otherwise opens the given location
+# from mathiasbynens
+  function o() {
+  	if [ $# -eq 0 ]; then
+  		open .;
+  	else
+  		open "$@";
+  	fi;
+  }
+
+# `a` with no arguments opens the current directory in Atom, otherwise opens the given locations
+# from mathiasbynens
+  function a() {
+  	if [ $# -eq 0 ]; then
+  		atom .;
+  	else
+  		atom "$@";
+  	fi;
+  }
+
+# playing with functions in here
+  function dont_worry () {
+    echo 'be happy'
+  }
+
+# congratulate yourself with a happy dance
+  function happydance {
+    echo '
+    ┏(-_-)┛ ┗(-_-﻿ )┓ ┗(-_-)┛ ┏(-_-)┓
+    '
+  }
+
+# having a sad day, here's a cute owl
+  function sadday {
+    echo '
+    (o,o)
+   <  .  >
+   --"-"---
+  '
+  }

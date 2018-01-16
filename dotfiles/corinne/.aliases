@@ -1,0 +1,69 @@
+# ------------------------------------------------------------------
+# | Aliases - 11.15.18                                             |
+# ------------------------------------------------------------------
+
+
+# standard navigation
+  alias ..="cd .."
+  alias home="cd ~"
+
+# go to documents
+  alias docs="cd ~/Documents"
+
+# go to desktop
+  alias desk="cd ~/Desktop"
+
+# go to sparkbox apprentice repo
+  alias spp="cd ~/sparkbox-protege"
+
+# clear
+  alias c="clear"
+
+# restart the mac ui
+  alias killui="killall SystemUIServer"
+
+# show list of all fills in long list format
+  alias ll='ls -lhaC'
+
+# restart finder
+  alias killfind="killall Finder"
+
+# start calculator
+  alias calc="bc -l"
+
+# show command history
+  alias h="history"
+
+# show available ports
+  alias ports="netstat"
+
+# restart bash
+  alias rbash="source ~/.bashrc"
+
+# find out what is using the most space
+  alias space="du -h -d1"
+
+# git commands
+  alias gs='git status'
+  alias go='git checkout'
+  alias gi='git commit'
+  alias gr='git rebase'
+  alias gb='git branch'
+  alias ga='git add -A'
+  alias gpl='git pull'
+  alias gpsh='git push'
+  alias gd="git diff"
+  alias gcb="git checkout -b $@"
+  alias gsr="git show $@"
+  alias pushu="git push --set-upstream origin $@"
+  alias fbase='git fetch && git rebase origin/master'
+  alias gpm='git pull origin master'
+  alias gre='git rebase origin/master'
+  alias glog='git log --date-order --all --graph --format="%C(green)%h%Creset %C(yellow)%an%Creset %C(blue bold)%ar%Creset %C(red bold)%d%Creset%s"'
+
+
+# updates software verbosely
+  alias supdate='sudo softwareupdate -ir --verbose'
+
+# checks for any updates
+  alias any_updates='sudo softwareupdate -l'
