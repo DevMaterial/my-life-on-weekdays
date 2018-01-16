@@ -11,7 +11,6 @@ A collection of thoughts and resources provided by the apprentice team.
 * Resources
 * dotfiles
 
------------------------------------------------
 
 ## Dotfiles
 
