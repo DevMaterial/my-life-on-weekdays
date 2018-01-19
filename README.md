@@ -2,6 +2,8 @@
 
 A collection of thoughts and resources provided by the apprentice team.
 
+![library](https://orig00.deviantart.net/0dee/f/2013/153/6/f/a_library_by_badriel-d67ki2m.png)
+
 ## Contents
 
 * Articles
