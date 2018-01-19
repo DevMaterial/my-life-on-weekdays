@@ -16,7 +16,7 @@ A collection of thoughts and resources provided by the apprentice team.
 
 * #### [Corinne](https://github.com/DevMaterial/my-life-on-weekdays/tree/master/dotfiles/corinne)
 
-* #### [Yosevu]()
+* #### [Yosevu](https://github.com/bantuist/dotfiles)
 
 * #### [Travis](https://github.com/DevMaterial/.dotfiles)
 
