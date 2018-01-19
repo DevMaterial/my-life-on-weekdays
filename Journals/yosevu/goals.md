@@ -45,7 +45,7 @@
   * [ ] Thu
   * [x] Fri
 
-* [x] Complete [LearnGitBranching].(https://learngitbranching.js.org/)
+* [x] Complete [LearnGitBranching](https://learngitbranching.js.org/)
 
 * Main goals: 10/11
 * Personal goals: 2/4
