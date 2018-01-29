@@ -22,7 +22,6 @@ A collection of resources that we found useful categorized by subject and type.
 
 ---
 
-## [Sparkbox]()
 * [GitHub Pull Requests for Everyone](https://seesparkbox.com/foundry/github_pull_requests_for_everyone)
 
 * [Sparkbox Standard](https://github.com/sparkbox/standard)

@@ -7,4 +7,5 @@ A collection of thoughts, projects, and resources created by the Sparkbox 2018 f
 * [Journals](journals.md)
 * [Projects](projects.md)
 * [Exercises](exercises.md)
+* [Cheatsheet](cheatsheet.md)
 * [Resources](resources.md)
