@@ -6,6 +6,11 @@ A collection of thoughts, projects, and resources created by the Sparkbox 2018 f
 
 * [Journals](journals.md)
 * [Projects](projects.md)
-* [Exercises](exercises.md)
+* [Kata](#kata)
 * [Cheatsheet](cheatsheet.md)
 * [Resources](resources.md)
+
+## Kata
+- [Triangle Classification](/kata/triangle-classifier/test_triangle_classifier.rb)
+  - [Source](http://web.archive.org/web/20140119031248/http://onestepback.org/vital_testing/)
+  - Travis and Yosevu
